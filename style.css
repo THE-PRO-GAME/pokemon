@@ -1,0 +1,17 @@
+body {
+    font-family: Arial; 
+    justify-items: center; 
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: rgb(0, 0, 0); 
+    text-align: center;
+}
+
+section {
+    border-radius: 12px; 
+    max-width: 1000px; 
+    width:25rem;
+    background-color: wheat;
+}
